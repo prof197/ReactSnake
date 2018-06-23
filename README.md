@@ -1,5 +1,5 @@
-# Reacteroids
-My best recollection of Nokia's classic Snake app using React.
+# ReactSnake
+An homage to the pre-smartphone app "Snake" written in React.
 
 ## Demo
 
